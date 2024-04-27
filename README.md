@@ -21,7 +21,8 @@
    - For 2D game, having a user interaction platform
        
 - What are features that you would like to implement if given the time? (Pre-project)
-  - Maybe I would like to implement 3D Escape a Room game plot settings.
+  - I would like to implement 2D car design apperance.
+  - In the different game levels have different maps.
 - How difficult do you think this project will be?
   - I think it could be a lot of challenge for me because developing a game is new for me. I have to learn the whole process.
 - What skills do you plan to develop with this project that will be useful for your job search?
