@@ -82,7 +82,7 @@
   - Week4
       - Continue to Work on car moving function and test it.
       - Test control buttons.
-      - Add second game object, colliders and rigid bodies make two objects can bump into each.
+      - Add second game object, colliders and rigid bodies functions make two objects can bump into each.
       - Learning realted tutorial.
       - Update project documentation.
   - Week5
