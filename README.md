@@ -59,10 +59,9 @@
 ## Requirements:
 - What are the features that you plan to implement?
   - UI
-  - For 2D Tetris game: Controls, movement, automatically clear, score calculation.
-  - For 2D Tetris game: geometric shape setting
-  - For 3D Escape a Room: Room creating 3D modeling,
-  - For 3D: Room furniture, Lighting, animation, subtitle for game task explanation
+  - For 2D car game: Controls, movement, pick up function, delivery function, change color
+  - For 2D car game: geometric shape setting
+  - Driving map 
   - Game background music
 
 ## Project Timeline:
@@ -76,14 +75,19 @@
       - Review lecture 2 and follow the contents to practice
       - Set up a working system and create a file in Unity
   - Week3
-      - Learn the MongoDB tutorial in each week
+      - Learn the Unity Engine tutorial in each week
       - Looking for the lecture on YouTube to know how to make a video game step by step, and watch it.
-      - UI game interface design sketch
+      - Practice each learning function in Unity Engine.
+      - Create a car model and add movement fuction on the car.
   - Week4
-      - Working on the first user login game interface page
-      - Create buttons and related difference function
+      - Continue to Work on car moving function and test it.
+      - Test control buttons.
+      - Add second game object, colliders and rigid bodies make two objects can bump into each.
+      - Learning realted tutorial.
+      - Update project documentation.
   - Week5
-      - Will update
+      - Continue to add move control movement function on the car
+      - Add Assets to project
   - Week6
   
   - Week7
