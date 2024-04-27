@@ -9,17 +9,16 @@
       - I never had the experience to create a game before. I decided to work on this project to learn the Unity engine and use it to design my first game. I also want to through the programming process to enhance my other coding language skills such as C# and Visual Studio Code. 
        
 - What are your goals for this project?
-  - To learn the Unity engine and develop a 2D or 3D mini kid-friendly game.
+  - To learn the Unity engine and develop a 2D mini kid-friendly game.
   - Continue to dive into C# and Visual Studio Code, and combine them into the game programming.
   - Practice creating whole process game programming. From the beginning of the concept to the end of the interactive game platform.
   - Practice designing user interactive game platforms to understand user experiences on the game.   
     
 - What do you project your final project look like?
-  - My final project will look like a 2D or 3D mini kid-friendly game. 2D game my idea is to design a game like Tetris. 3D game is like Escape the Room. I am not finally determined which game I would to develop, but this is my roughly thinking. 
+  - My final project will look like a 2D mini kid-friendly game. 2D game my idea is to design a game like car carries with package and delivery it. 
 	 
 - What are the specific features you deem required to implement for this project?
    - For 2D game, having a user interaction platform
-   - For 3D game, having room scenes with 3D
        
 - What are features that you would like to implement if given the time? (Pre-project)
   - Maybe I would like to implement 3D Escape a Room game plot settings.
